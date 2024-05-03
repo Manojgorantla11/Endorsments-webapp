@@ -1,0 +1,69 @@
+html, body {
+    background-color: black;
+    margin: 30%;
+    align-items:center;
+}
+h1 {
+    width: 280px; ;
+    margin-left: 30px;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+::placeholder {
+    color: grey;
+}
+
+button{
+    width: 317px;
+    height: 61px;
+    border: none;
+    background: #28A9F1;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+#txtarea{
+    text-align: center;
+    width: 317px;
+    height: 61px;
+    border: none;
+    background-color: #444059;
+    }
+img{
+    margin-left: 110px;
+    top: 158px;
+    width: 90px;
+    height: 90px;
+}
+p{
+    color: white;
+    margin-left: 112px; 
+}
+#txtarea, button, li{
+    border-radius: 10px;
+}
+ul{
+    width: 317px;
+    margin-left: -35px; 
+    color: black;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+}
+li {
+    margin: 2%;
+    background: whitesmoke;
+    width: 317px;
+    height: 30px;
+    text-align:center;
+}
+
+#endorsments{
+    text-align: center;
+    color: white;
+}
